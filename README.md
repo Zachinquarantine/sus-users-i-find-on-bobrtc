@@ -1,2 +1,2 @@
-# sus-users-bobrtc
-An open source list of users marked as suspicious on Bobrtc.
+# sus-users-i-found-on-bobrtc
+An open source list I find sus on bobrtc 
